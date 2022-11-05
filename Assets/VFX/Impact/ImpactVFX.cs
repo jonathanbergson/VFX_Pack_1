@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace VFX.Impact
 {
-    public class BallJump : MonoBehaviour
+    public class ImpactVFX : MonoBehaviour
     {
         private const float Force = 4f;
 

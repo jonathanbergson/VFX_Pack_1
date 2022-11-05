@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace VFX.RocketTurbine
 {
-    public class RocketTurbine : MonoBehaviour
+    public class RocketTurbineVFX : MonoBehaviour
     {
         private const float RotateSpeed = 30f;
         private const float Displacement = 0.5f;
