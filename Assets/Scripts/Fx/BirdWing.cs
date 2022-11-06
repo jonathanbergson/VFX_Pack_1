@@ -11,9 +11,7 @@ namespace Fx
 
         private void Start()
         {
-            Debug.Log(_skinnedMeshRenderer);
             _skinnedMeshRenderer = GetComponentInChildren<SkinnedMeshRenderer>();
-            Debug.Log(_skinnedMeshRenderer);
         }
 
         private void Update()
