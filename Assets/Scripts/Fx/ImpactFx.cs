@@ -1,8 +1,8 @@
 using UnityEngine;
 
-namespace VFX.Impact
+namespace Fx
 {
-    public class ImpactVFX : MonoBehaviour
+    public class ImpactFx : MonoBehaviour
     {
         private const float Force = 4f;
 

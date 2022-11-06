@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-public class VFXControlPanel : MonoBehaviour
+public class ControlPanel : MonoBehaviour
 {
     [SerializeField] private Button[] buttons;
     [SerializeField] private GameObject[] visualEffects;

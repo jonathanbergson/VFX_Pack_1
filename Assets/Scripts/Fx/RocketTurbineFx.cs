@@ -1,8 +1,8 @@
 using UnityEngine;
 
-namespace VFX.RocketTurbine
+namespace Fx
 {
-    public class RocketTurbineVFX : MonoBehaviour
+    public class RocketTurbineFx : MonoBehaviour
     {
         private const float RotateSpeed = 30f;
         private const float Displacement = 0.5f;

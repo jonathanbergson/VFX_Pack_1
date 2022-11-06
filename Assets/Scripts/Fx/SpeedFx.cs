@@ -1,8 +1,8 @@
 using UnityEngine;
 
-namespace VFX.Speed
+namespace Fx
 {
-    public class SpeedVFX : MonoBehaviour
+    public class SpeedFx : MonoBehaviour
     {
         private const float Speed = 8f;
 
